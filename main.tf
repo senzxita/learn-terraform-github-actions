@@ -15,7 +15,7 @@ terraform {
     organization = "example-org-8c7c4b"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "eb-provision"
     }
   }
 }
